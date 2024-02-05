@@ -23,3 +23,4 @@ Structure Project Directory:
 │
 ├── main.py
 └── README.md
+└── requirements.txt
