@@ -1,0 +1,4 @@
+!pip install holidays
+!pip install xlsxwriter
+!pip install pmdarima
+!pip install statsmodels --upgrade -q
